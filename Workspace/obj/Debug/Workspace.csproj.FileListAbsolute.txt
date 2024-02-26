@@ -1,0 +1,11 @@
+D:\EnginDemirogYazilimKampi\MaskeTakip\Workspace\bin\Debug\Workspace.exe.config
+D:\EnginDemirogYazilimKampi\MaskeTakip\Workspace\bin\Debug\Workspace.exe
+D:\EnginDemirogYazilimKampi\MaskeTakip\Workspace\bin\Debug\Workspace.pdb
+D:\EnginDemirogYazilimKampi\MaskeTakip\Workspace\obj\Debug\Workspace.csproj.AssemblyReference.cache
+D:\EnginDemirogYazilimKampi\MaskeTakip\Workspace\obj\Debug\Workspace.csproj.SuggestedBindingRedirects.cache
+D:\EnginDemirogYazilimKampi\MaskeTakip\Workspace\obj\Debug\Workspace.csproj.CoreCompileInputs.cache
+D:\EnginDemirogYazilimKampi\MaskeTakip\Workspace\obj\Debug\Workspace.exe
+D:\EnginDemirogYazilimKampi\MaskeTakip\Workspace\obj\Debug\Workspace.pdb
+D:\EnginDemirogYazilimKampi\MaskeTakip\Workspace\bin\Debug\Entities.dll
+D:\EnginDemirogYazilimKampi\MaskeTakip\Workspace\bin\Debug\Entities.pdb
+D:\EnginDemirogYazilimKampi\MaskeTakip\Workspace\obj\Debug\Workspace.csproj.CopyComplete
